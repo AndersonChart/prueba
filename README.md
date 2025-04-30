@@ -1,2 +1,2 @@
-# prueba
-Este es un repositorio de practica
+# Mi primer repositorio
+## Este es un repositorio de practica
