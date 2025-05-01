@@ -1,2 +1,3 @@
 <?php
-echo "Hola soy Anderson Chacon, bienvenido a PHP!<br>";
+$proposito = "Curso de PHP";
+echo "Hola soy Anderson, bienvenido a ".$proposito."!<br>";
