@@ -2,4 +2,4 @@
 
 $nombre = "Anderson Chacon";
 
-echo "Hola ".$nombre." bienvenido a PHP!<br>";
+echo "Hola soy ".$nombre." y te doy la bienvenida a PHP!<br>";
