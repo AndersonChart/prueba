@@ -1,2 +1,3 @@
 <?php
-echo "Hola soy Anderson Chacon, bienvenido a PHP!<br>";
+$nombre = "Anderson Chacon";
+echo "Hola ".$nombre.", bienvenido a PHP!<br>";
